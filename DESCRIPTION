@@ -3,5 +3,10 @@ A simple bench test board for Chubb\'s DCC-OD and MRCS\' cpOD detectors.
 Test and tune Occupancy Detectors on your workbench for low, normal or high sensitivity
 
 
-V1.1: external DCC source connector as well as external test track for testing rolling stock
+Version 2.0:
+
+  * Make the resistors pads 0.400 across.  The standard red triangular benders only go down to 0.400 so bending to 0.300 requires doing it manually.
+  * Made the 100uF a 3.5x10 package to match what is in stock...
+  * Fixed silk screen TRACK and DCC
+  * Boxed the LOW and NORMAL buttons to indicate that they both chould trigger, and the HIGH one should not
 

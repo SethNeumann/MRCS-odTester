@@ -2,7 +2,7 @@ title: MRCS-odTester
 project: MRCS-odTester
 designer: John Plocher
 fabricated: no
-fab_date: 2017-02
-status: experimental
-release: no
+fab_date: 2017-03
+status: released
+release: yes
 tags: [eagle, MRCS]
