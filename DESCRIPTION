@@ -1,4 +1,7 @@
 A simple bench test board for Chubb\'s DCC-OD and MRCS\' cpOD detectors.
 
-V1.0: No provision for external DCC signal source
+Test and tune Occupancy Detectors on your workbench for low, normal or high sensitivity
+
+
+V1.1: external DCC source connector as well as external test track for testing rolling stock
 
