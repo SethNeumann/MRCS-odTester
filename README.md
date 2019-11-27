@@ -53,23 +53,23 @@ detection LED lights when the following buttons are pressed:
 
 
 
-| LOW | NORMAL | HIGH  | 
-|:----|:-------|:------|:----------------------------------------------------------------------------------------------------------------------------
-| OFF | OFF    | OFF   | Nothing lights, missing DCCOD, no DCC power, no DC power, poorly chosen R1,R2 and R3
+| LOW | NORMAL | HIGH  | |
+|:----|:-------|:------|:----------------------------------------------------------------------------------------------------------------------------|
+| OFF | OFF    | OFF   | Nothing lights, missing DCCOD, no DCC power, no DC power, poorly chosen R1,R2 and R3|
 |----
-| OFF | OFF    | ON    | Bad detector tester - check solder connections
+| OFF | OFF    | ON    | Bad detector tester - check solder connections|
 |----
-| OFF | ON     | OFF   | Bad detector tester - check solder connections
+| OFF | ON     | OFF   | Bad detector tester - check solder connections|
 |----
-| OFF | ON     | ON    | Bad detector board - check solder connections
+| OFF | ON     | ON    | Bad detector board - check solder connections|
 |----
-| ON  | OFF    | OFF   | this DCCOD will have problems detecting a typical car resistance. Adjust DCCOD until NORMAL lights when pressed
+| ON  | OFF    | OFF   | this DCCOD will have problems detecting a typical car resistance. Adjust DCCOD until NORMAL lights when pressed|
 |----
-| ON  | OFF    | ON    | Bad detector tester - check solder connections
+| ON  | OFF    | ON    | Bad detector tester - check solder connections|
 |----
-| ON  | ON     | OFF   | this DCCOD is properly adjusted
+| ON  | ON     | OFF   | this DCCOD is properly adjusted|
 |----
-| ON  | ON     | ON    | this DCCOD is potentially overly sensitive, and may false trigger. Lower the DCCOD sensitivity until this just extinguishes
+| ON  | ON     | ON    | this DCCOD is potentially overly sensitive, and may false trigger. Lower the DCCOD sensitivity until this just extinguishes|
 |====
 
 
