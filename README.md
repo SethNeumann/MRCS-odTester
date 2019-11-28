@@ -1,5 +1,5 @@
 # MRCS-odTester
-## License: CERN Open Hardware Licence v1.2
+## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 A simple bench test board for Chubb\'s DCC-OD and MRCS\' cpOD detectors.
 
