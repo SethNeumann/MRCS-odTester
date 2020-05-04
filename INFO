@@ -5,4 +5,4 @@ fabricated: no
 fab_date: 2017-03
 status: released
 release: yes
-tags: [eagle, MRCS]
+tags: [eagle, MRCS, TestJig]
